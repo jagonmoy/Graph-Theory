@@ -8,28 +8,31 @@ vertex U is actually part of the same DFS tree and there is a cycle . So here we
 need to add and that is, in DFSVISIT function we will also check one more thing that if state[v] = GREY and parent[u] != v then we will be sure that there is a cycle.
 
 
+here if the value of f is 1 then there is a cycle else no 
 
+vector < vector <ll> > graph ;
+vector < ll > parent ;
+vector < ll > state ;
 
-bool detecting_cycle(ll u , ll vertex) {
+ll f = 0 ;
+
+void detecting_cycle(ll u , ll vertex) {
    state[u] = GREY ;
    INC(i,0,graph[u].size()-1) {
        ll v = graph[u][i];
-       if (state[v] == GREY && parent[u] != v) return true ;
+       if (state[v] == GREY && parent[u] != v) f = 1 ;
        if ( state[v] == WHITE) {
            parent[v] = u ;
            detecting_cycle(v,vertex);
        }
    }
    state[u] = BLACK ;
-   return false ;
+   return ;
 }
 
-bool dfs( ll vertex) {
+void dfs( ll vertex) {
     INC(i,1,vertex) state[i] = WHITE ;
-    INC (i,1,vertex)  {
-        if (state[i] == WHITE) {
-            if(detecting_cycle(i,vertex)) return true ;
-        }
-    }
-    return false ;
+    INC(i,1,vertex) parent[i] = -1 ;
+    INC (i,1,vertex) if (state[i] == WHITE) detecting_cycle(i,vertex);
+    return ;
 }
