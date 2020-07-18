@@ -12,10 +12,11 @@ ll parent[sz];
 ll state[sz];
 ll discovery_time[sz];
 ll finshing_time[sz];
+ll timecount = 0 ;
 
 void dfsvisit(ll u , ll vertex) {
    state[u] = GREY ;
-   discovery_time[u]++ ;
+   discovery_time[u] = ++timecount ;
    INC(i,0,graph[u].size()-1) {
        ll v = graph[u][i];
        if ( state[v] == WHITE) {
@@ -23,7 +24,7 @@ void dfsvisit(ll u , ll vertex) {
            dfsvisit(v,vertex);
        }
    }
-   finshing_time[u]++ ;
+   finshing_time[u] = ++timecount;
    state[u] = BLACK ;
    cout << u << " " ;
 }
