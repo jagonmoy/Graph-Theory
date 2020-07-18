@@ -1,3 +1,7 @@
+Explanation Link :
+http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/GraphAlgor/depthSearch.htm
+
+
 #define sz 1000000
 #define WHITE 0
 #define GREY 1
