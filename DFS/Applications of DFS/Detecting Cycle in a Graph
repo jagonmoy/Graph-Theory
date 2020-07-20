@@ -10,6 +10,9 @@ need to add and that is, in DFSVISIT function we will also check one more thing 
 
 here if the value of f is 1 then there is a cycle else no 
 
+Here if the graph is a undirected graph then the parent array is need but when the graph is directed there is no need of parent array .
+in place of (state[v] == GREY && parent[u] != v) we need to check state[v] == GREY .
+
 vector < vector <ll> > graph ;
 vector < ll > parent ;
 vector < ll > state ;
