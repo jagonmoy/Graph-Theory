@@ -1,0 +1,38 @@
+Explanation  :
+Here Everytime Before taking A vertex U we will check two things . We will check if the vartex U is unvisited and all it's adjacent vertices are unvisited . Because See , Here 
+adjacent vertices actually means that before doing the task of it's adjacent vertices first we need complete the task of vertex U . so if we see that it's adjacent vertices 
+are visited earlier than it's not possible because adjcacent vertices depends on U . So before completing the task of U we can not complete the tasks of it's adjacent vertices.
+whenever our vector's size is equal to the number of total vertex that means all of the vertices are visited properly and this is a possible topsort !! so we will make f = 1 .
+now if a cycle exists in DAG then this f will remain zero . because vector size will be not equal to the number of vertices .
+By this way we will try to check all possible combinations.
+
+
+vector < VL > graph ;
+ll vertex ;
+VL visited ;
+ll f = 0 ;
+bool valid(ll node) {
+    if ( graph[node].size() > 0) {
+        INC(i,0,graph[node].size()-1) 
+            if ( visited[graph[node][i]]) return false ;
+    }
+    return true ;
+}
+void dfs(VL v) {
+    if ( v.size() == vertex) {
+        INC(i,0,v.size()-1) cout << v[i] << " " ;
+        cout << endl;
+        f = 1 ;
+    }
+    else {
+        INC(i,1,vertex) {
+            if ( !visited[i] && valid(i)) {
+                visited[i] = 1 ;
+                v.PB(i);
+                dfs(v);
+                v.erase(v.end()-1);
+                visited[i] = 0 ;
+            }
+        }
+    }
+}
