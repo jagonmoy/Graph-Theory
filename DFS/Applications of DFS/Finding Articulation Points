@@ -1,3 +1,5 @@
+Explanation : https://cp-algorithms.com/graph/cutpoints.html
+
 vector < VL > graph;
 ll dfsRoot;
 ll rootChildren = 0;
