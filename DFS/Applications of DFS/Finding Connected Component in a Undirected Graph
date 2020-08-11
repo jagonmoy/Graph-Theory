@@ -18,7 +18,7 @@ void dfs(ll node) {
            if ( !visited[child]) dfs(child); 
     }
 }
-void findingConnectedComponent(){
+void findingConnectedComponent(ll n ){
     INC(i,1,n) {
         if ( !visited[i]) {
              dfs(i) ;
@@ -28,3 +28,17 @@ void findingConnectedComponent(){
         }
     }
 }
+int main() {
+    ll vertex,edges ;
+    cin >> vertex >> edges ;
+    setting(vertex);
+    INC(i,1,edges) {
+        ll node1,node2 ;
+        cin >> node1 >> node2 ;
+        graph[node1].PB(node2) ;
+        graph[node2].PB(node1) ;
+    }
+    findingConnectedComponent(vertex) ;
+    return 0 ;
+}
+
