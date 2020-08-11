@@ -1,0 +1,30 @@
+Explanation : https://cp-algorithms.com/graph/search-for-connected-components.html
+
+
+
+VL visited ;
+vector < VL > graph ;
+VL component ;
+void setting(ll n ) {
+    graph.clear() ;
+    graph.resize(n+3);
+    visited.clear();
+    visited.resize(n+3,0);
+}
+void dfs(ll node) {
+    visited[node] = 1 ;
+    component.PB(node);
+    for ( ll child : graph[node]) {
+           if ( !visited[child]) dfs(child); 
+    }
+}
+void findingConnectedComponent(){
+    INC(i,1,n) {
+        if ( !visited[i]) {
+             dfs(i) ;
+             INC(j,0,component.size()-1) cout << component[j] << " " ;
+             cout << endl;
+             component.clear() ;
+        }
+    }
+}
