@@ -1,5 +1,6 @@
 
 Exactly The Problem LightOJ 1417 . So I just copy pasted the Explanation -_- 
+In this solution we will get to know both from which node maximum number of nodes can be visited and what is the maximum result .
 
 Explanation :
 -------------------------------------------------------------------------
