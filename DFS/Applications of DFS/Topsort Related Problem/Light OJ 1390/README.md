@@ -18,4 +18,5 @@ Now after Completing the topsort we will set the value of each node in **priorit
 ##### STEP 3 :
 
 Now in this step we will Sort every Adjacent Vertex **child** of a node **i** according to their Priorityarray value . we will take a bitset for every node **i** known as **reachable_Set_of_from_i** . Then we will check if adjacent vertex **child** is already added in the **bitset**  of **i** or not . If it is not added then we will insert the edge
-**i->child** in our result vector . after that we will add the bitset of the adjcant vertex **child** to the bitset **reachable_Set_of_from_i** by an OR operation **reachable_Set_of_from_i |= reachable[child]** . 
+**i->child** in our result vector . after that we will add the bitset of the adjcant vertex **child** to the bitset **reachable_Set_of_from_i** by an OR operation **reachable_Set_of_from_i |= reachable[child]** .  So that if Any other Adjacent vertex of i which is included in the bitset earlier (Which means that there already exists a route
+from i to that particular adjacent vertex ) there is no need add the edge further . we can check it by checking the value of **reachable_Set_of_from_i[child]** . if it is one it means already a route exists so no need to add the edge .
