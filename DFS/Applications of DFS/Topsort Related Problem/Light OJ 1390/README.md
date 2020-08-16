@@ -11,7 +11,7 @@ Just like Other DFS problem first we need to set the Graph,visited,toposrt Etc o
 
 ##### STEP 2 :
 
-Now we will call the DFS function to topsort the vertices . Here in the DFS function we will use a Extra line **reachable[node] |= reachable[child]** . Now what does that actually mean ? Every Reachable Vertex from Child vertex will be added to the bitset of Parent vertex as well . That's why we are using OR operation . In simple word , Suppose there is a route from Road B to Road C,D,E,G . Now if there is Route from Road A to Road B it's also possible to reach Road C,D,E,G from Road A .
+Now we will call the DFS function to topsort the vertices . Here in the DFS function we will use a Extra line **reachable[node] |= reachable[child]** . Now what does that actually mean ? Every Reachable Vertex from Child vertex will be added to the bitset of Parent vertex as well . That's why we are using OR operation . In simple word , Suppose there is a route from City B to City C,D,E,G . Now if there is Route from City A to City B it's also possible to reach City C,D,E,G from City A .
 Now a question will arise ? how do you know which vertices are reachable from the child vertex if you don't traverse them ? In DFS method we go as deep as we can . so before adding the reachable vertices fo child vertex known as **reachable[child]** to it's parent vertex we will traverse the child vertex first . That's why **reachable[node] |= reachable[child]** this line is after the line **dfs(child)** in code . So that before adding the reachable vertices from child vertex to it's parent we will traverse the child vertex first . 
 Now after Completing the topsort we will set the value of each node in **priorityarray** according to the order of topsort . 
 
