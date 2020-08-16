@@ -23,6 +23,7 @@ void dfs(ll node) {
     }
 }
 int main() {
+ ccvalue.resize(n+2,1);
  INC(i,0,n-1) {
             if (!visited[i]) {
                 t = 0 ;
