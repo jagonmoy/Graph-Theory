@@ -6,4 +6,6 @@ Given a directed acyclic graph, we need to remove all the edges vi → vj if vj 
 
 ### Explnation :
 
-Just like Other DFS problem first we need to set the Graph,visited,toposrt Etc other vectors . Here we will use one more extra thing Known as *bitset* 
+Just like Other DFS problem first we need to set the Graph,visited,toposrt Etc other vectors . Here we will use one more extra thing Known as **bitset** . here we will take a vector of bitset and we will initialize the size of each bitset according to the Number of nodes and also we will initialize our vector size according to number of nodes.so our 
+vector < bitset < numberOfnodes > > reachabe(numberOfNodes) will be actually more like e numberOfnodes * numberOfnodes 2D array .
+here the bit of reachable[i][j] 
