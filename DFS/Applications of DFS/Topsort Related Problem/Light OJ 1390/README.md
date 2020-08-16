@@ -6,4 +6,4 @@ Given a directed acyclic graph, we need to remove all the edges vi → vj if vj 
 
 ### Explnation :
 
-Just like Other DFS problem first we need to set the Graph,visited,toposrt Etc other vectors . Here we will use one more extra thing Known as * bitset * 
+Just like Other DFS problem first we need to set the Graph,visited,toposrt Etc other vectors . Here we will use one more extra thing Known as *bitset* 
