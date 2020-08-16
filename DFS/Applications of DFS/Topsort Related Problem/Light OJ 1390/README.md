@@ -4,7 +4,7 @@
 
 Given a directed acyclic graph, we need to remove all the edges vi → vj if vj is reachable from vi by some other path. In a word we need to remove the extra edges which are already included in some other path . Resulted Total Number of Edges should be as minimum as possible .
 
-### Explnation :
+### Explanation :
 
 ##### STEP 1 : 
 Just like Other DFS problem first we need to set the Graph,visited,toposrt Etc other vectors . Here we will use one more extra thing Known as **bitset** . suppose the Number Of nodes is **N** . Here we will take a vector of bitset and we will initialize the size of each bitset according to the Number of nodes and also we will initialize our vector size according to number of nodes. So **vector < bitset < N > > reachable(N)** will be actually more like a N * N 2D array . Here each bit of reachable[i][j] will indicate us if it is possible to reach node j from node i by any route . now we will initialize all i from 1 to N reachable[i][i] = 1 . Because it is possibe for each node to visit itself . 
