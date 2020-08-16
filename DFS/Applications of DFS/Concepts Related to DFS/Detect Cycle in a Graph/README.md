@@ -2,7 +2,7 @@
 
 #### EXPLANATION : 
 Detecting Cycle in a graph is one of the Very important use of Depth First Search Algorithm .
-To detect Cycle in a algorithm we need to modify the DFS algorithm a little bit every time when we check a adjacent node of Vertex **U** . Suppose the adjacent Node is **V** .
+To detect Cycle in a graph we need to modify the DFS algorithm a little bit every time when we check a adjacent node of Vertex **U** . Suppose the adjacent Node is **V** .
 If **V** is a Node which work is still in progress that means if **it's Colour is GREY and it is not a parent of vertex U then there is a cycle** . It means that actually the 
 **Vertex V is a ancestor of Vertex U** . Because in Depth First ALgorithm we go as deep we can . Then when there is no way to go further we backtrack to reach the earlier vertrex
 where we started from . So during the time of checking adjacent vertices of **U** if we find such a vertex which work is still in progress and it's not a parent of U then the 
