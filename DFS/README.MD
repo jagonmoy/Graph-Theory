@@ -8,9 +8,13 @@
 
     - #### [Detect Cycle in a Graph](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Detect%20Cycle%20in%20a%20Graph/)
 
-    - #### [Topological Sorting of Nodes in Directed Graph ( ALL/Any )](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Topsort%20Using%20DFS/)
+    - #### [Topological Sorting of Nodes in Directed Graph ( Any )](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Topsort%20Using%20DFS/)
+    
+    - #### Topological Sorting of Nodes in Directed Graph ( ALL) 
 
-    - #### [Finding Articulation Points/Bridges in a graph](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Finding%20Articulation%20Points%20in%20a%20Graph/)
+    - #### [Finding Articulation Bridges in a graph](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Finding%20Articulation%20Points%20in%20a%20Graph/)
+    
+    - #### Finding Articulation Points in a graph
 
     - #### [Finding Connected Components in a Undirected Graph](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Finding%20Connected%20Components%20in%20a%20Undirected%20Graph/)
 
