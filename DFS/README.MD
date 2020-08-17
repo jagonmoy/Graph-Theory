@@ -10,13 +10,11 @@
 
     - #### [Topological Sorting of Nodes in Directed Graph ( Any )](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Topsort%20Using%20DFS/)
     
-    - #### [Topological Sorting of Nodes in Directed Graph ( ALL)] 
-    (Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Finding%20All%20Possible%20Topsort/)
+    - #### [Topological Sorting of Nodes in Directed Graph ( ALL)](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Finding%20All%20Possible%20Topsort/)
 
     - #### [Finding Articulation Bridges in a graph](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Finding%20Articulation%20Bridges%20in%20a%20Graph/)
     
-    - #### [Finding Articulation Points in a graph] 
-    (Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Finding%20Articulation%20Points%20in%20a%20Graph/)
+    - #### [Finding Articulation Points in a graph](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Finding%20Articulation%20Points%20in%20a%20Graph/)
 
     - #### [Finding Connected Components in a Undirected Graph](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Finding%20Connected%20Components%20in%20a%20Undirected%20Graph/)
 
