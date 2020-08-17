@@ -40,3 +40,4 @@ SCC who has a vertex which id is minimum .
 1. Find SCC's of the graph .
 2. Create a SCC graph .
 3. Run a DFS on SCC graph and with help of DP find from which SCC highest number of vertex can be visited .
+4. print the maximum number of vertex and minimum vertex of that SCC
