@@ -4,7 +4,7 @@
 
   - ### Concepts Related To DFS
 
-    - #### [Checking a Undirected Graph if it a tree or not ?](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Check%20if%20a%20Undirected%20Graph%20is%20a%20tree%20or%20not%20?/)
+    - #### [Checking a Undirected Graph if it a tree or not ?](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Check%20if%20a%20Undirected%20Graph%20is%20a%20tree%20or%20not/)
 
     - #### [Detect Cycle in a Graph](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Detect%20Cycle%20in%20a%20Graph/)
 
@@ -12,7 +12,7 @@
 
     - #### [Finding Articulation Points/Bridges in a graph](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Finding%20Articulation%20Points%20in%20a%20Graph/)
 
-    - #### [Finding Connected Components in a Undirected Graph](<(Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Finding%20Connected%20Components%20in%20a%20Undirected%20Graph/)>)
+    - #### [Finding Connected Components in a Undirected Graph](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Finding%20Connected%20Components%20in%20a%20Undirected%20Graph/)
 
     - #### [Finding Strongly Connected Components in a Directed graph](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Finding%20Strongly%20Connected%20Components%20in%20a%20Directed%20Graph/)
 
