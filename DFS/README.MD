@@ -1,29 +1,28 @@
-There are many Applications of DFS .
+## Applications of DFS .
 
----> Finding Articulation Points and Bridges in a Graph .
+### ---> Checking a Undirected Graph if it a tree or not ?
 
----> Finding Strongly Connected Components in a Directed graph
+### ---> Detect Cycle in a Graph
 
----> Finding Connected Component in a Undirected Graph .
+### ---> Topological Sorting of Nodes in Directed Graph ( ALL/Any )
 
----> Finding Cycles in Graph 
+### ---> Finding Articulation Points/Bridges in a graph .
 
----> Topological Sorting of Nodes in Directed Graph .
+### ---> Finding Connected Components in a Undirected Graph .
 
----> Checking a Undirected Graph if it a tree or not ?
+### ---> Finding Strongly Connected Components in a Directed graph
 
----> Given a Directed Graph Find Such node from where 
-    Maximum Number of Nodes can be visited .
-	
----> Longest Path in a Unweighted Directed Acyclic Graph
-     using DFS and DP
+### ---> Given a Directed Graph Find Such node from where Maximum Number of Nodes can be visited .
+
+### ---> Longest Path in a Unweighted Directed Acyclic Graph using DFS and DP
+
+### ---> Making A Undirected Graph Directed So that Number of Strongly Connected Components is minimal
+
+### ---> Making A Undirected Graph Strongly Connected By using Minimum Number of Bidirectional edge .
+
+### ---> Minimum Edges to make a Direction Graph Strongly Connected .
+
+### ---> Number Of Components after deleting a vertex .
+
+### ---> Shortest Path in a Tree using DFS .
 	 
----> Giving Direction to an Undirected Connected Graph So that
-    Number of SCC is minimal
-	
----> Making a Undiected Connected Graph Strongly Connected By
-     giving DIrected to edges .
-	 
----> Minimum Number of edges to make a Undirected Connected Graph Stronhly Connected .
-
----> Shortest Path in a Tree using DFS .
