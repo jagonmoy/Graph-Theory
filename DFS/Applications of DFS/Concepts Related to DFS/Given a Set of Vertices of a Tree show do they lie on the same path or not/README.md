@@ -5,7 +5,7 @@
 ### Explanation : 
 It's a very straight forward DFS Problem . No need to change anything at all in the DFS function . For every Node in the DFS we will store the in time and end time
 of that node . Now what actually intime and endtime means ? intime means that time when a DFS function reach a completely univisited Node **U** and Endtime is the time when we 
-complete traversing all of the adjacent vertices of that node (the end of of DFS function for that node **U**) . All we need to solve this problem is a simple 
+complete traversing all of the adjacent vertices of that node (the end of DFS function for that node **U**) . All we need to solve this problem is a simple 
 observation .     
 
 See if there exist a path consisting of node A,B,C,D then from node **A** DFS function will visit node **B** then from it DFS function will visit Node **C** then from it 
