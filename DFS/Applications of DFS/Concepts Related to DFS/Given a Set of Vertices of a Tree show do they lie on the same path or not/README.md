@@ -10,7 +10,7 @@ observation .
 
 See if there exist a path Consisting of node A,B,C,D then from node **A** DFS function will visit node **B** then from it DFS function will visit Node **C** then from it 
 DFS function will visit node **D** then after Completing the task of Node **D** it will backtrack and return to Node **C** . Then after Completing the task of Node C it will 
-return to node **B**and then after Completing the task of Node **B** Finally it will reach the vertex from where the path started Node **A** . 
+return to node **B** and then after Completing the task of Node **B** Finally it will reach the vertex from where the path started Node **A** . 
 Now , By definition of Intime and endtime what we can say is , 
 according to the value of intime , **intime[A] < intime[B] < intime[C] < intime[D] ( intime will be Increasing)**
 and according to the value of endtime, **endtime[A] > endtime[B] > entime[C] > endtime[D] ( endtime will be decreasing )**
