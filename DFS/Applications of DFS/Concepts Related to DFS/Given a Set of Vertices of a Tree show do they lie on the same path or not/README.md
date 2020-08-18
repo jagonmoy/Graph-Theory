@@ -8,7 +8,7 @@ of that node . Now what actually intime and endtime means ? intime means that ti
 complete traversing all of the adjacent vertices of that node (the end of of DFS function for that node **U**) . All we need to solve this problem is a simple 
 observation .     
 
-See if there exist a path between node A,B,C,D  from node **A** DFS function will visit node **B** then from it DFS function will visit Node **C** then from it 
+See if there exist a path Consisting of node A,B,C,D  from node **A** DFS function will visit node **B** then from it DFS function will visit Node **C** then from it 
 DFS function will visit node **D** then after Completing the task of Node **D** it will backtrack and return to Node **C** . Then after Completing the task of Node C it will 
 return to node **B**and then after Completing the task of Node **B** Finally it will reach the vertex from where the path started Node **A** . 
 Now , By definition of Intime and endtime what we can say is , 
