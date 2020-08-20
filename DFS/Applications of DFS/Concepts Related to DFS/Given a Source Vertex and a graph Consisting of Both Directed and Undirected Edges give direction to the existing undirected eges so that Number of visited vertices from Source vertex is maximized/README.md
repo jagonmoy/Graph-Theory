@@ -19,6 +19,6 @@ of that edge then we will give a **+** else we will give **-** and visit the adj
 we will not visit the adjacent node **V**. If the edge is directed and **V** is not visited then we will just visit the vertex **V** .
 
 Those vertices which are reachable from source vertex is our first desired result .
-Now after running the DFS from source vertex those vertex which are not visited they are out of our considertation . Now the undirected edges which are connecting those vertices
+Now after running the DFS from source vertex those vertex which are not visited they are out of our consideration . Now the undirected edges which are connecting those vertices
 whatever orientation they have will not effect our result at all because they can not be visited from our source vertex . That's why we can give any sign **+** or **-** to that 
 edges .
