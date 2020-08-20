@@ -35,3 +35,6 @@
     - #### [Shortest Path in a Tree using DFS](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Shortest%20Path%20in%20a%20Tree%20using%20DFS/)
     
     - #### [Given a Set of Vertices of a Tree show do they lie on the same path or not](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Given%20a%20Set%20of%20Vertices%20of%20a%20Tree%20show%20do%20they%20lie%20on%20the%20same%20path%20or%20not/)
+    
+    - #### [Given a Directed Graph and a Source Vertex add minimum directed edges to the Graph So that All the Vertices are Reachable from Source Vertex]
+(Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Given%20a%20Directed%20Graph%20and%20a%20Source%20Vertex%20add%20minimum%20directed%20edges%20to%20the%20Graph%20So%20that %20All%20the%20Vertices%20are%20Reachable%20from%20Source%20Vertex/)    
