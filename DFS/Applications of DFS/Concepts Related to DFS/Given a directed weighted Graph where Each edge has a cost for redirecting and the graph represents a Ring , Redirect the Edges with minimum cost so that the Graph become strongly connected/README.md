@@ -7,12 +7,18 @@ visit every city to any other (make the graph strongly connected ) .
 ### EXPLANATION :
 Suppose total Vertex is N and N edges in the Ring are 
 
-Edge No          weight
+Edge No     weight
+
 1          1 5    4
+
 2          5 3    8
+
 3          2 4    15
+
 4          1 6    16
+
 5          2 3    23
+
 6          4 6    42
 
 1 --> 5 --> 3 <-- 2 --> 4 --> 6 <-- 1 
