@@ -17,6 +17,7 @@ Suppose total Vertex is N and N edges in the Ring are
 |    6    |   4 6             |  42    |
 
 1 --> 5 --> 3 <-- 2 --> 4 --> 6 <-- 1 
+
 To build a Strongly Connected Ring , All the edges should be in one direction . 
 here you see ,
 Right Directed edges are 1,2,3,6 and their sum is 69 .
