@@ -18,3 +18,5 @@ in the Graph That's Why for any Node in the Graph the maximum distance will be e
  So , For a Similar Situation In any tree what we need to do is,
  First We can Pick any random Node and Run a DFS from That node and find the Furthest Node from that Random Node. It will be our First Furthest Node or You can say One part of the Longest Chain. Then we will Run Another DFS from First Furthest Node and in the Similar Way we will find our Second Furthest Node or another part of a Chain. So after this second DFS function, we will be able to know the distance from our First Furthest Node to Any other Node in the Graph. But we also need to Know the Distance from Second Furthest Node to All other Node. That's Why we run another DFS function from our Second Furthest Node. 
  Now, The final Step for Every Node We will check which distance is maximum ?? Distance to FIrst Furhtest Node or distance to Second Furthest Node.
+ - ## RELATED PROBLEM :
+ [Light OJ - 1257](http://lightoj.com/volume_usersubmissions.php)
