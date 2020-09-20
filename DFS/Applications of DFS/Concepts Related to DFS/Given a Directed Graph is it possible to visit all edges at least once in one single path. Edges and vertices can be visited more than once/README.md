@@ -26,7 +26,7 @@
  
  Finally this graph follows all the condition . The graph is connected , Other than Starting Node no other Node has zero indegree ( The starting Node could have one indegree that is not an issue ) , All othe SCC's of the Graph have Outdegree < 2 .
  
- So we need ensure 3 thing 
+ So we need to ensure 3 things 
  
  - ##### First We need to check whether the Graph is connected or Not and if there is any Node which has zero indegree other than starting Node . We can check this Using Topsort .
  
