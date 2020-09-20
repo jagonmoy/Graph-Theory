@@ -34,5 +34,6 @@
  
  - ##### Now we will check if there is any SCC which has outdegree >= 2 . 
  
-
+- ### RELATED PROBLEM :
+ [Light OJ - 1168](http://lightoj.com/volume_showproblem.php?problem=1168)
  
