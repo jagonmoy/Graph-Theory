@@ -45,7 +45,9 @@
     
     - #### [Given a tree (a connected graph with no cycles), you have to find the cost to go to the farthest node from each node. The edges of the tree are weighted and undirected](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Given%20a%20tree%20(a%20connected%20graph%20with%20no%20cycles),%20you%20have%20to%20find%20the%20cost%20to%20go%20to%20the%20farthest%20node%20from%20each%20node.%20The%20edges%20of%20the%20tree%20are%20weighted%20and%20undirected/)
     
-    - #### [hayre](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/kaka%20ji/)
+    - #### [hayre](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/
+Given%20a%20Directed%20Graph%20is%20it%20possible%20to%20visit%20all%20edges%20at%20least%20once
+/)
    
    
    
