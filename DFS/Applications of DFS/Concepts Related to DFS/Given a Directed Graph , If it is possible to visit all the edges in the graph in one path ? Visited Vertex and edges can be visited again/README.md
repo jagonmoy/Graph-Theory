@@ -26,12 +26,13 @@
  
  Finally this graph follows all the condition . The graph is connected , Other than Starting Node no other Node has zero indegree ( The starting Node could have one indegree that is not an issue ) , All othe SCC's of the Graph have Outdegree < 2 .
  
- So we need ensure 4 thing 
- 1. First We need to check whether the Graph is connected or Not and if there is any Node which has zero indegree other than starting Node . We can check this Using Topsort .
+ So we need ensure 3 thing 
  
- 2. Then we will make a SCC graph . That means we will consider every SCC of the Graph as a node and then Construct a Graph .
+ - ##### First We need to check whether the Graph is connected or Not and if there is any Node which has zero indegree other than starting Node . We can check this Using Topsort .
  
- 3 . Now we will check if there is any SCC which has outdegree >= 2 . 
+ - ##### Then we will make a SCC graph . That means we will consider every SCC of the Graph as a node and then Construct a Graph .
+ 
+ - ##### Now we will check if there is any SCC which has outdegree >= 2 . 
  
 
  
