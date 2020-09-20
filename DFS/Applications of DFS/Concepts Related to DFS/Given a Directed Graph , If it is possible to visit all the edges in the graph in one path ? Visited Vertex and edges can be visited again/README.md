@@ -1,0 +1,3 @@
+- ## PREREQUISITE : DFS , Topsort , Strongly Connected Components
+- ### EXPLANATION :
+- #### Graph 1 
