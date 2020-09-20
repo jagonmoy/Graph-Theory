@@ -13,7 +13,7 @@
  <img src="Images/Example4.jpg" width="500" >  
  
  In this Figure you can see that the graph is connected but The vertex 7 has no indegree so it is not possible to visit edge vertex 7-->8 and  7-->6 in one single Path .
- So secondly we need to ensure this that No vertex in the graph has zero indegree Except the starting Node . Starting Node's Indegree can be 0 or 1 . But other than starting Node no other node should have zero indegree .
+ So secondly we need to ensure that No vertex in the graph has zero indegree Except the starting Node . Starting Node's Indegree can be 0 or 1 . But other than starting Node no other node should have zero indegree .
  
  - #### Graph 3 
  <img src="Images/Example2.jpg" width="500" >   
