@@ -20,6 +20,6 @@ Now from EQ(1) and EQ(2) , We can say that , <br><br>
  so, now we can say that Maximum Distance between any these **L<sub>C<sub>2</sub></sub>** Combinations will be greather or equals than **2S/L** . And we know the **maximum distance
  between any of the two leaf nodes in a tree is called diameter of the tree** . So that is our answer . <br><br>
  So , we just need to Know the Number of Total Leaf nodes that is **L** and then divide **2S** by **L** .  So we will give **S/L** to all the edges that are connected to leaf nodes and **0** weight to edges that are not connected to leaf nodes .  Then distance between any of the two leaf nodes will be **2S/L** . Beacause other than two edges all the 
- edges will be **0** . That's why there sum will be **2S/L** .
+ edges will be **0** . That's why there sum will be **2S/L** . Now how to get the Leaf Nodes ??? Very Simple , Nodes having one indegree are leaf nodes .
  - #### RELATED PROBLEMS :
   [Codeforces 1087D](https://codeforces.com/problemset/problem/1087/D?locale=en)
