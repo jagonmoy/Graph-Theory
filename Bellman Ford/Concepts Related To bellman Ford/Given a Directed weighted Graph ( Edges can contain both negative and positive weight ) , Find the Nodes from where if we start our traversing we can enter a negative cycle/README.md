@@ -13,3 +13,5 @@
  and the nodes presented in those cycles . We will mark the nodes which are presented in negative cycles. Finally, we will run a DFS traversal in reverse graph starting from the Marked nodes which are presented in those negative cycles and 
  we will mark these nodes too.
  
+- ### RELATED PROBLEM :
+[Light OJ 1108](http://lightoj.com/volume_showproblem.php?problem=1108)
