@@ -12,3 +12,5 @@ NEGINF that means it is reachable . We don't need to go further . But if it is n
 2. We will find out the nodes which are changable in **n**th phase (I.E part of positive cycle) . Then we will run a Simple BFS from destination vertex in reverse graph so that
 it is possible to find if the nodes presented in positive cycle have a path to destination vertex . Now for every edge in graph we will check three condition . One, First node
 of the edge ( the node having outgoing edge ) should be reachable from our start vertex which we can determine via distance value  , two , Second node of the edge (the node having incoming edge ) should be part of positive cycle and three , the second node should be reachable from destination vertex . <br><br>
+- ### RELATED PROBLEM :
+[UVA 10557](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1498)
