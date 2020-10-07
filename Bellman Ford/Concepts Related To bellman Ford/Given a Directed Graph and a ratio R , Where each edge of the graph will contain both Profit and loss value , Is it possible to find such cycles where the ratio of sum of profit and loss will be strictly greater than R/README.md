@@ -10,3 +10,5 @@
  So that it Means, We need to find a positive weighted cycle where each edge of the Cycle will represent P<sub>i</sub> - RL<sub>i</sub> . It is the exact oppsite of Bellman ford 
  algorithm . That's Why we will take values of P<sub>i</sub> as negative value and L<sub>i</sub> as positive value . Basically we will mark each edge as <br>  -P<sub>i</sub>+RL<sub>i</sub>
  and then Find negative cycle via Bellman ford algoithm .
+- ### RELATED PROBLEM :
+[Light OJ 1221](http://lightoj.com/volume_showproblem.php?problem=1221)
