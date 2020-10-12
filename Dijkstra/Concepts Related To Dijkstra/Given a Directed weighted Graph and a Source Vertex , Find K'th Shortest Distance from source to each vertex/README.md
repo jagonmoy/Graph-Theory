@@ -15,7 +15,7 @@
     if distance[current_state_of_parent][parent] + edgeweight > distance[1][child] && distance[current_state_of_parent][parent] + edgeweight < distance[2][child] then ,<br>
     distance[2][child] = distance[current_state_of_parent][parent] + edgeweight <br><br>
     
-    This is the method to find 2nd shortest distance . In the same way you can add K condition to find up to K'th shortest distance <br><br>
+    This is the method to find 2nd shortest distance . In the same way you will need K conditions to find up to K'th shortest distance <br><br>
     [Detailed Explanation](http://lbv-pc.blogspot.com/2012/06/not-best.html) 
 - ### RELATED PROBLEM :
    [Light OJ 1099](http://lightoj.com/volume_showproblem.php?problem=1099)
