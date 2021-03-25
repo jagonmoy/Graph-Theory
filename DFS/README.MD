@@ -2,7 +2,7 @@
 
   - ## Concepts Related To DFS
     
-    - ### [Basic DFS](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Basic%20DFS/)
+    - #### [Basic DFS](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Basic%20DFS/)
 
     - #### [Checking an Undirected Graph if it a tree or not ?](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Check%20if%20a%20Undirected%20Graph%20is%20a%20tree%20or%20not/)
 
