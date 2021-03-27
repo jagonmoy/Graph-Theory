@@ -17,3 +17,6 @@
        of DFS .   </p>
        
    [Concepts Based on DFS](DFS/)
+   
+   #### DFS Traversal Related Problems
+   [Light OJ 1049](https://lightoj.com/problem/one-way-roads) : [Solution](Applications%20of%20DFS/DFS%20Traversal%20Related%20Problems/LightOJ_1049.cpp)
