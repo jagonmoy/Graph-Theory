@@ -38,15 +38,15 @@
    - #### [Given a Directed Graph and a Source Vertex add minimum directed edges to the Graph So that All the Vertices are Reachable from Source Vertex](DFS/Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Given%20a%20Directed%20Graph%20and%20a%20Source%20Vertex%20add%20minimum%20directed%20edges%20to%20the%20Graph%20So%20that%20All%20the%20Vertices%20are%20Reachable%20from%20Source%20Vertex/)   
     
   #### CYCLES,TOPSORT RELATED PROBLEM
-   [Light OJ 1003](https://lightoj.com/problem/drunk) : [Solution](DFS/Applications%20of%20DFS/Cycle%20Related%20Problem/LightOJ_1003.cpp)
-   [Light OJ 1390](https://lightoj.com/problem/weight-comparison) : [Solution](DFS/Applications%20of%20DFS/Topsort%20Related%20Problem/Light%20OJ%201390)
-   [Codeforces 1385E](https://codeforces.com/problemset/problem/1385/E): [Solution](DFS/Applications%20of%20DFS/Topsort%20Related%20Problem/Codeforces%20_1385E.cpp)
-   [Codeforces 999E](https://codeforces.com/problemset/problem/999/E): [Solution](DFS/Applications%20of%20DFS/Topsort%20Related%20Problem/Codeforces_999E.cpp)
-   [Light OJ 1034](https://lightoj.com/problem/hit-the-light-switches): [Solution](DFS/Applications%20of%20DFS/Topsort%20Related%20Problem/Light_OJ_1034.cpp)
-   [UVA 10305](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1246): [Solution](DFS/Applications%20of%20DFS/Topsort%20Related%20Problem/UVA_10305.cpp)
-   [UVA 11060](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2001): [Solution](DFS/Applications%20of%20DFS/Topsort%20Related%20Problem/UVA_11060.cpp)
-   [UVA 11686](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=2733): [Solution](DFS/Applications%20of%20DFS/Topsort%20Related%20Problem/UVA_11686.cpp)
-   [UVA 124](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=60): [Solution](DFS/Applications%20of%20DFS/Topsort%20Related%20Problem/UVA_124.cpp)
-   [UVA 872](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=813): [Solution](DFS/Applications%20of%20DFS/Topsort%20Related%20Problem/UVA_872.cpp)
+   [Light OJ 1003](https://lightoj.com/problem/drunk) : [Solution](DFS/Applications%20of%20DFS/Cycle%20Related%20Problem/LightOJ_1003.cpp)<br><br>
+   [Light OJ 1390](https://lightoj.com/problem/weight-comparison) : [Solution](DFS/Applications%20of%20DFS/Topsort%20Related%20Problem/Light%20OJ%201390)<br><br>
+   [Codeforces 1385E](https://codeforces.com/problemset/problem/1385/E): [Solution](DFS/Applications%20of%20DFS/Topsort%20Related%20Problem/Codeforces%20_1385E.cpp)<br><br>
+   [Codeforces 999E](https://codeforces.com/problemset/problem/999/E): [Solution](DFS/Applications%20of%20DFS/Topsort%20Related%20Problem/Codeforces_999E.cpp)<br><br>
+   [Light OJ 1034](https://lightoj.com/problem/hit-the-light-switches): [Solution](DFS/Applications%20of%20DFS/Topsort%20Related%20Problem/Light_OJ_1034.cpp)<br><br>
+   [UVA 10305](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1246): [Solution](DFS/Applications%20of%20DFS/Topsort%20Related%20Problem/UVA_10305.cpp)<br><br>
+   [UVA 11060](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2001): [Solution](DFS/Applications%20of%20DFS/Topsort%20Related%20Problem/UVA_11060.cpp)<br><br>
+   [UVA 11686](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=2733): [Solution](DFS/Applications%20of%20DFS/Topsort%20Related%20Problem/UVA_11686.cpp)<br><br>
+   [UVA 124](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=60): [Solution](DFS/Applications%20of%20DFS/Topsort%20Related%20Problem/UVA_124.cpp)<br><br>
+   [UVA 872](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=813): [Solution](DFS/Applications%20of%20DFS/Topsort%20Related%20Problem/UVA_872.cpp)<br><br>
    
      
