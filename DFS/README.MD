@@ -3,6 +3,8 @@
   - ## Concepts Related To DFS
     
     - #### [Basic DFS](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Basic%20DFS/)
+    
+    - #### [Given a Set of Vertices in a Directed Unweighted Graph , how many Nodes are reachable by all of them](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Given%20a%20Set%20of%20Vertices%20in%20a%20Directed%20Unweighted%20Graph%20%2C%20how%20many%20Nodes%20are%20reachable%20by%20all%20of%20them)
 
     - #### [Detect Cycle in a Graph](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Detect%20Cycle%20in%20a%20Graph/)
       
