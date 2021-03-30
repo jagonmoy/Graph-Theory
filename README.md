@@ -16,9 +16,10 @@
    <p> Cycle Checking , Topsort , Connected Components , Strongly Connected Components , Articulation Points , Articulation Bridge etc various algorihms are actually application 
        of DFS .   </p>
        
-   [Concepts Based on DFS](DFS/)
+   ### TOPICS TO BE COVERED BEFORE NEXT SET OF PROBLEMS
+   - #### 1. [Basic DFS](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Basic%20DFS/)
    
-   #### DFS Traversal Related Problems
+   #### SET 1
    
    [Light OJ 1049](https://lightoj.com/problem/one-way-roads) : [Solution](DFS/Applications%20of%20DFS/DFS%20Traversal%20Related%20Problems/LightOJ_1049.cpp)<br><br>
    [Light OJ 1111](https://lightoj.com/problem/best-picnic-ever) : [Solution](DFS/Applications%20of%20DFS/DFS%20Traversal%20Related%20Problems/LightOJ_1111.cpp) <br><br>
