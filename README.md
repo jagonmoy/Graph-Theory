@@ -77,6 +77,15 @@
    [UVA 469](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=410) : [Solution](DFS/Applications%20of%20DFS/Connected%20Component%20Related%20Problems/UVA_469.cpp)<br><br>
    [UVA 657](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=598) : [Solution](DFS/Applications%20of%20DFS/Connected%20Component%20Related%20Problems/UVA_657.cpp)<br><br>
    [UVA 871](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=812) : [Solution](DFS/Applications%20of%20DFS/Connected%20Component%20Related%20Problems/UVA_871.cpp)<br><br>
+   [Light OJ 1168](https://lightoj.com/problem/wishing-snake) : [Solution](DFS/Applications%20of%20DFS/Strongly%20Connected%20Component%20Related%20Problems/LightOJ_1168.cpp)<br><br>
+   [Light OJ 1417](https://lightoj.com/problem/forwarding-emails) : [Solution](DFS/Applications%20of%20DFS/Strongly%20Connected%20Component%20Related%20Problems/LightOJ_1417.cpp)<br><br>
+   [Light OJ 1210](https://lightoj.com/problem/efficient-traffic-system) : [Solution](DFS/Applications%20of%20DFS/Strongly%20Connected%20Component%20Related%20Problems/Light_OJ_1210.cpp)<br><br>
+   [UVA 10731](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1672) : [Solution](DFS/Applications%20of%20DFS/Strongly%20Connected%20Component%20Related%20Problems/UVA_10731.cpp)<br><br>
+   [UVA 11504](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2499) : [Solution](DFS/Applications%20of%20DFS/Strongly%20Connected%20Component%20Related%20Problems/UVA_11504.cpp)<br><br>
+   [UVA 11709](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=2756) : [Solution](DFS/Applications%20of%20DFS/Strongly%20Connected%20Component%20Related%20Problems/UVA_11709.cpp) <br><br>
+   [UVA 11770](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2870) : [Solution](DFS/Applications%20of%20DFS/Strongly%20Connected%20Component%20Related%20Problems/UVA_11770.cpp)<br><br>
+   [UVA 11838](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2938) : [Solution](DFS/Applications%20of%20DFS/Strongly%20Connected%20Component%20Related%20Problems/UVA_11838.cpp)<br><br>
+   [UVA 247](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=183) : [Solution](DFS/Applications%20of%20DFS/Strongly%20Connected%20Component%20Related%20Problems/UVA_247.cpp)<br><br>
    
    
     
