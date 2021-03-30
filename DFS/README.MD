@@ -5,6 +5,8 @@
     - #### [Basic DFS](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Basic%20DFS/)
     
     - #### [Given a Set of Vertices in a Directed Unweighted Graph , how many Nodes are reachable by all of them](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Given%20a%20Set%20of%20Vertices%20in%20a%20Directed%20Unweighted%20Graph%20%2C%20how%20many%20Nodes%20are%20reachable%20by%20all%20of%20them)
+     - #### [Given a Source Vertex and a graph Consisting of Both Directed and Undirected Edges give direction to the existing undirected edges so that Number of visited vertices from Source vertex is maximized](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Given%20a%20Source%20Vertex%20and%20a%20graph%20Consisting%20of%20Both%20Directed%20and%20Undirected%20Edges%20give%20direction%20to%20the%20existing%20undirected%20eges%20so%20that%20Number%20of%20visited%20vertices%20from%20Source%20vertex%20is%20maximized/) 
+    - #### [Given a Source Vertex and a graph Consisting of Both Directed and Undirected Edges give direction to the existing undirected edges so that Number of visited vertices from Source vertex is minimized](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Given%20a%20Source%20Vertex%20and%20a%20graph%20Consisting%20of%20Both%20Directed%20and%20Undirected%20Edges%20give%20direction%20to%20the%20existing%20undirected%20edges%20so%20that%20Number%20of%20visited%20vertices%20from%20Source%20vertex%20is%20minimized/) 
 
     - #### [Detect Cycle in a Graph](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Detect%20Cycle%20in%20a%20Graph/)
       
@@ -39,9 +41,7 @@
     - #### [Shortest Path in a Tree using DFS](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Shortest%20Path%20in%20a%20Tree%20using%20DFS/)
     
     - #### [Given a Set of Vertices of a Tree show do they lie on the same path or not](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Given%20a%20Set%20of%20Vertices%20of%20a%20Tree%20show%20do%20they%20lie%20on%20the%20same%20path%20or%20not/)
-    
-    - #### [Given a Source Vertex and a graph Consisting of Both Directed and Undirected Edges give direction to the existing undirected edges so that Number of visited vertices from Source vertex is maximized](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Given%20a%20Source%20Vertex%20and%20a%20graph%20Consisting%20of%20Both%20Directed%20and%20Undirected%20Edges%20give%20direction%20to%20the%20existing%20undirected%20eges%20so%20that%20Number%20of%20visited%20vertices%20from%20Source%20vertex%20is%20maximized/) 
-    - #### [Given a Source Vertex and a graph Consisting of Both Directed and Undirected Edges give direction to the existing undirected edges so that Number of visited vertices from Source vertex is minimized](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Given%20a%20Source%20Vertex%20and%20a%20graph%20Consisting%20of%20Both%20Directed%20and%20Undirected%20Edges%20give%20direction%20to%20the%20existing%20undirected%20edges%20so%20that%20Number%20of%20visited%20vertices%20from%20Source%20vertex%20is%20minimized/) 
+     
     - #### [Diameter Of a Tree](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Diameter%20Of%20a%20Tree/)
     - #### [Finding Subtree size for Each Node in a Tree](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Finding%20Subtree%20size%20for%20Each%20Node%20in%20a%20Tree/)
     - #### [Given a tree Weighted and Undirected find two nodes in the tree whose distance is maximum amongst all nodes](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Given%20a%20tree%20Weighted%20and%20Undirected%20%20find%20two%20nodes%20in%20the%20tree%20whose%20distance%20is%20maximum%20amongst%20all%20nodes)
