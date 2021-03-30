@@ -3,7 +3,12 @@
   ## Index
    
  <ul>
- <li> <h3> <a href = "#dfs" > Depth First Search and it's Variants </a> </h3> </li> 
+ <li> <h3> <a href = "#dfs" > Depth First Search and it's Variants </a> </h3> </li> <br><br>
+ <li> <h4> <a href = "#dfst1" > 1. DFS Traversal Related  </a> </h3> </li> 
+ <li> <h4> <a href = "#dfst2" > 2. Cycles,Topsort Related </a> </h3> </li> 
+ <li> <h4> <a href = "#dfst3" > 3. Connected Components, Strongly Connected Components </a> </h3> </li> 
+ <li> <h4> <a href = "#dfst4" > 4. Articulation Points, Articulation Bridge </a> </h3> </li>  
+ <li> <h4> <a href = "#dfst4" > 5. DFS on Tree </a> </h3> </li>  
  <li> <h3> <a href = "#bfs" > Breadth First Search </a> </h3> </li>
  <li> <h3> <a href = "#dijsktra" > Dijkstra </a> </h3> </li>
  <li> <h3> <a href = "#bellmanford" > Bellman Ford  </a> </h3> </li>
@@ -16,7 +21,7 @@
    <p> Cycle Checking , Topsort , Connected Components , Strongly Connected Components , Articulation Points , Articulation Bridge etc various algorihms are actually application 
        of DFS .   </p>
        
-   #### TOPICS TO BE COVERED BEFORE NEXT SET OF PROBLEMS
+   #### <h3 id = "dfst1" >TOPICS TO BE COVERED BEFORE NEXT SET OF PROBLEMS : DFS TRAVERSAL </h3>
    - #### [Basic DFS](DFS/Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Basic%20DFS/)
    - #### [Given a Set of Vertices in a Directed Unweighted Graph , how many Nodes are reachable by all of them](DFS/Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Given%20a%20Set%20of%20Vertices%20in%20a%20Directed%20Unweighted%20Graph%20%2C%20how%20many%20Nodes%20are%20reachable%20by%20all%20of%20them)
    - #### [Given a Source Vertex and a graph Consisting of Both Directed and Undirected Edges give direction to the existing undirected edges so that Number of visited vertices from Source vertex is maximized](DFS/Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Given%20a%20Source%20Vertex%20and%20a%20graph%20Consisting%20of%20Both%20Directed%20and%20Undirected%20Edges%20give%20direction%20to%20the%20existing%20undirected%20eges%20so%20that%20Number%20of%20visited%20vertices%20from%20Source%20vertex%20is%20maximized/) 
@@ -31,7 +36,7 @@
    [Codeforces 883G](https://codeforces.com/problemset/problem/883/G) : [Solution](DFS/Applications%20of%20DFS/DFS%20Traversal%20Related%20Problems/Codeforces_883G.cpp)<br><br>
    <br><br>
    
-  #### TOPICS TO BE COVERED BEFORE NEXT SET OF PROBLEMS
+  #### <h3 id = "dfst2">TOPICS TO BE COVERED BEFORE NEXT SET OF PROBLEMS : CYCLES ,TOPSORT </h3>
    - #### [Detect Cycle in a Graph](DFS/Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Detect%20Cycle%20in%20a%20Graph/)
    - #### [Topological Sorting of Nodes in Directed Graph ( Any )](DFS/Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Topsort%20Using%20DFS/)
    - #### [Topological Sorting of Nodes in Directed Graph ( ALL)](DFS/Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Finding%20All%20Possible%20Topsort/)
@@ -49,7 +54,7 @@
    [UVA 124](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=60): [Solution](DFS/Applications%20of%20DFS/Topsort%20Related%20Problem/UVA_124.cpp)<br><br>
    [UVA 872](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=813): [Solution](DFS/Applications%20of%20DFS/Topsort%20Related%20Problem/UVA_872.cpp)<br><br>
    
-  #### TOPICS TO BE COVERED BEFORE NEXT SET OF PROBLEMS
+  #### <h3 id = "dfst3">TOPICS TO BE COVERED BEFORE NEXT SET OF PROBLEMS : CONNECTED COMPONENTS , STRONGLY CONNECTED COMPONENTS </h3>
   - #### [Finding Connected Components in an Undirected Graph](DFS/Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Finding%20Connected%20Components%20in%20a%20Undirected%20Graph/)
 
   - #### [Finding Strongly Connected Components in a Directed graph](DFS/Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Finding%20Strongly%20Connected%20Components%20in%20a%20Directed%20Graph/)
@@ -93,7 +98,7 @@
    [UVA 11838](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2938) : [Solution](DFS/Applications%20of%20DFS/Strongly%20Connected%20Component%20Related%20Problems/UVA_11838.cpp)<br><br>
    [UVA 247](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=183) : [Solution](DFS/Applications%20of%20DFS/Strongly%20Connected%20Component%20Related%20Problems/UVA_247.cpp)<br><br>
    
-#### TOPICS TO BE COVERED BEFORE NEXT SET OF PROBLEMS
+#### <h3 id = "dfst4"> TOPICS TO BE COVERED BEFORE NEXT SET OF PROBLEMS : ARTICULATION BRIDGE , ARTICULATION POINTS </h3>
    - #### [Finding Articulation Bridges in a graph](DFS/Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Finding%20Articulation%20Bridges%20in%20a%20Graph/)
  
    - #### [Finding Articulation Points in a graph](DFS/Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Finding%20Articulation%20Points%20in%20a%20Graph/)
@@ -114,7 +119,7 @@
    [UVA 10765](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1706) : [Solution](DFS/Applications%20of%20DFS/Articulation%20Point%20Related%20Problems/UVA_10765.cpp)<br><br>
    [UVA 315](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=251) : [Solution](DFS/Applications%20of%20DFS/Articulation%20Point%20Related%20Problems/UVA_315.cpp)<br><br>
    
- #### TOPICS TO BE COVERED BEFORE NEXT SET OF PROBLEMS
+ #### <h3 id = "dfst5" > TOPICS TO BE COVERED BEFORE NEXT SET OF PROBLEMS : DFS ON TREE </h3>
   - #### [Checking an Undirected Graph if it a tree or not ?](DFS/Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Check%20if%20a%20Undirected%20Graph%20is%20a%20tree%20or%20not/)
 
   - #### [Shortest Path in a Tree using DFS](DFS/Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Shortest%20Path%20in%20a%20Tree%20using%20DFS/)
