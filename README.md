@@ -113,3 +113,28 @@
    [UVA 10199](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1140) : [Solution](DFS/Applications%20of%20DFS/Articulation%20Point%20Related%20Problems/UVA_10199.cpp)<br><br>
    [UVA 10765](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1706) : [Solution](DFS/Applications%20of%20DFS/Articulation%20Point%20Related%20Problems/UVA_10765.cpp)<br><br>
    [UVA 315](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=251) : [Solution](DFS/Applications%20of%20DFS/Articulation%20Point%20Related%20Problems/UVA_315.cpp)<br><br>
+   
+ #### TOPICS TO BE COVERED BEFORE NEXT SET OF PROBLEMS
+  - #### [Checking an Undirected Graph if it a tree or not ?](DFS/Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Check%20if%20a%20Undirected%20Graph%20is%20a%20tree%20or%20not/)
+
+  - #### [Shortest Path in a Tree using DFS](DFS/Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Shortest%20Path%20in%20a%20Tree%20using%20DFS/)
+    
+  - #### [Given a Set of Vertices of a Tree show do they lie on the same path or not](DFS/Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Given%20a%20Set%20of%20Vertices%20of%20a%20Tree%20show%20do%20they%20lie%20on%20the%20same%20path%20or%20not/)
+     
+  - #### [Diameter Of a Tree](DFS/Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Diameter%20Of%20a%20Tree/)
+  - #### [Finding Subtree size for Each Node in a Tree](DFS/Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Finding%20Subtree%20size%20for%20Each%20Node%20in%20a%20Tree/)
+  - #### [Given a tree Weighted and Undirected find two nodes in the tree whose distance is maximum amongst all nodes](DFS/Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Given%20a%20tree%20Weighted%20and%20Undirected%20%20find%20two%20nodes%20in%20the%20tree%20whose%20distance%20is%20maximum%20amongst%20all%20nodes)
+  - #### [Given a tree (a connected graph with no cycles), you have to find the cost to go to the farthest node from each node. The edges of the tree are weighted and undirected](DFS/Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Given%20a%20tree%20(a%20connected%20graph%20with%20no%20cycles),%20you%20have%20to%20find%20the%20cost%20to%20go%20to%20the%20farthest%20node%20from%20each%20node.%20The%20edges%20of%20the%20tree%20are%20weighted%20and%20undirected/)
+ #### DFS ON TREE RELATED PROBLEMS
+  [Codeforces 1328E](https://codeforces.com/problemset/problem/1328/E) : [Solution](DFS/Applications%20of%20DFS/DFS%20on%20Tree/Codeforces_1328E.cpp)<br><br>
+  [Codeforces 1388C](https://codeforces.com/problemset/problem/1388/C) : [Solution](DFS/Applications%20of%20DFS/DFS%20on%20Tree/Codeforces_1388C.cpp)<br><br>
+  [Codeforces 1405D](https://codeforces.com/problemset/problem/1405/D) : [Solution](DFS/Applications%20of%20DFS/DFS%20on%20Tree/Codeforces_1405D.cpp)<br><br>
+  [Hackerearth Bishu and his Girlfriend](Link Not found) : [Solution](DFS/Applications%20of%20DFS/DFS%20on%20Tree/Hackerearth_Bishu_and_his_Girlfriend.cpp)<br><br>
+  [LightOJ 1094](https://lightoj.com/problem/farthest-nodes-in-a-tree) : [Solution](DFS/Applications%20of%20DFS/DFS%20on%20Tree/LightOJ_1094.CPP)<br><br>
+  [LightOJ 1257](https://lightoj.com/problem/farthest-nodes-in-a-tree-ii) : [Solution](DFS/Applications%20of%20DFS/DFS%20on%20Tree/LightOJ_1257.cpp)<br><br>
+  [LightOJ 1357](https://lightoj.com/problem/corrupted-friendship) : [Solution](DFS/Applications%20of%20DFS/DFS%20on%20Tree/LightOJ_1357.cpp)<br><br>
+  [SPOJ PT07Y](https://www.spoj.com/problems/PT07Y/) : [Solution](DFS/Applications%20of%20DFS/DFS%20on%20Tree/SPOJ_PTO7Y.cpp)<br><br>
+    
+    
+
+   
