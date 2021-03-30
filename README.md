@@ -4,8 +4,8 @@
    
  <ul>
  <li> <h3> <a href = "#dfs" > Depth First Search and it's Variants </a> </h3> </li> <br>
- <li> <h4> <a href = "#dfst1" > 1. DFS Traversal Related  </a> </h3> </li> 
- <li> <h4> <a href = "#dfst2" > 2. Cycles,Topsort Related </a> </h3> </li> 
+ <li> <h4> <a href = "#dfst1" > 1. DFS Traversal  </a> </h3> </li> 
+ <li> <h4> <a href = "#dfst2" > 2. Cycles,Topsort  </a> </h3> </li> 
  <li> <h4> <a href = "#dfst3" > 3. Connected Components, Strongly Connected Components </a> </h3> </li> 
  <li> <h4> <a href = "#dfst4" > 4. Articulation Points, Articulation Bridge </a> </h3> </li>  
  <li> <h4> <a href = "#dfst5" > 5. DFS on Tree </a> </h3> </li>  <br>
