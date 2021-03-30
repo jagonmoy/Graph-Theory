@@ -104,4 +104,12 @@
 
    - #### [Number Of Components after deleting a vertex](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Number%20of%20Components%20after%20deleting%20a%20vertex/)
    
-     
+ #### Articulation Bridge and Articulation Point Related Problems
+   [Codeforces 118E](https://codeforces.com/problemset/problem/118/E) : [Solution](DFS/Applications%20of%20DFS/Articulation%20Bridge%20Related%20Problems/Codeforces%20_118E.cpp)<br><br>
+   [Light OJ 1026](https://lightoj.com/problem/critical-links) : [Solution](DFS/Applications%20of%20DFS/Articulation%20Bridge%20Related%20Problems/LightOJ_1026.cpp)<br><br>
+   [UVA 610](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=551) : [Solution](DFS/Applications%20of%20DFS/Articulation%20Bridge%20Related%20Problems/UVA_610.cpp)<br><br>
+   [UVA 796](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=737) : [Solution](DFS/Applications%20of%20DFS/Articulation%20Bridge%20Related%20Problems/UVA_796.cpp)<br><br>
+   [Light OJ 1063](https://lightoj.com/problem/ant-hills) : [Solution](DFS/Applications%20of%20DFS/Articulation%20Point%20Related%20Problems/LightOJ_1063.cpp)<br><br>
+   [UVA 10199](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1140) : [Solution](DFS/Applications%20of%20DFS/Articulation%20Point%20Related%20Problems/UVA_10199.cpp)<br><br>
+   [UVA 10765](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1706) : [Solution](DFS/Applications%20of%20DFS/Articulation%20Point%20Related%20Problems/UVA_10765.cpp)<br><br>
+   [UVA 315](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=251) : [Solution](DFS/Applications%20of%20DFS/Articulation%20Point%20Related%20Problems/UVA_315.cpp)<br><br>
