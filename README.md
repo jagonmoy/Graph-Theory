@@ -11,7 +11,7 @@
  </ul>
  <br><br><br>
 
-  - ## <h2 id = "dfs" > Depth First Search and it's Variants </h2> 
+ - ## <h2 id = "dfs" > Depth First Search and it's Variants </h2> 
    ### Prequisite : Recursion .
    <p> Cycle Checking , Topsort , Connected Components , Strongly Connected Components , Articulation Points , Articulation Bridge etc various algorihms are actually application 
        of DFS .   </p>
@@ -48,5 +48,37 @@
    [UVA 11686](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=2733): [Solution](DFS/Applications%20of%20DFS/Topsort%20Related%20Problem/UVA_11686.cpp)<br><br>
    [UVA 124](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=60): [Solution](DFS/Applications%20of%20DFS/Topsort%20Related%20Problem/UVA_124.cpp)<br><br>
    [UVA 872](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=813): [Solution](DFS/Applications%20of%20DFS/Topsort%20Related%20Problem/UVA_872.cpp)<br><br>
+   
+  #### TOPICS TO BE COVERED BEFORE NEXT SET OF PROBLEMS
+  - #### [Finding Connected Components in an Undirected Graph](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Finding%20Connected%20Components%20in%20a%20Undirected%20Graph/)
+
+  - #### [Finding Strongly Connected Components in a Directed graph](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Finding%20Strongly%20Connected%20Components%20in%20a%20Directed%20Graph/)
+   
+  - #### [Minimum Edges to make a Directed Graph Strongly Connected](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Minimum%20Edges%20to%20Make%20a%20Directed%20Graph%20Strongly%20Connected)
+  
+  - #### [Given a Directed Graph is it possible to visit all edges at least once in one single path ? Edges and vertices can be visited more than once](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Given%20a%20Directed%20Graph%20is%20it%20possible%20to%20visit%20all%20edges%20at%20least%20once%20in%20one%20single%20path.%20Edges%20and%20vertices%20can%20be%20visited%20more%20than%20once/)
+ 
+ #### CONNECTED COMPONENTS, STRONGLY CONNECTED COMPONENTS RELATED PROBLEM
+   [Codeforces 1255D](https://codeforces.com/problemset/problem/1255/D) : [Solution](DFS/Applications%20of%20DFS/Connected%20Component%20Related%20Problems/Codeforces_1255D.cpp)<br><br>
+   [Codeforces 327D](https://codeforces.com/problemset/problem/327/D) : [Solution](DFS/Applications%20of%20DFS/Connected%20Component%20Related%20Problems/Codeforces_327D)<br><br>
+   [Light OJ 1009](https://lightoj.com/problem/back-to-underworld) : [Solution](DFS/Applications%20of%20DFS/Connected%20Component%20Related%20Problems/LightOJ_1009.cpp)<br><br>
+   [Light OJ 1012](https://lightoj.com/problem/guilty-prince) : [Solution](DFS/Applications%20of%20DFS/Connected%20Component%20Related%20Problems/LightOJ_1012.cpp)<br><br>
+   [Light OJ 1263](https://lightoj.com/problem/equalizing-money) : [Solution](DFS/Applications%20of%20DFS/Connected%20Component%20Related%20Problems/LightOJ_1263.cpp)<br><br>
+   [Light OJ 1337](https://lightoj.com/problem/the-crystal-maze) : [Solution](DFS/Applications%20of%20DFS/Connected%20Component%20Related%20Problems/LightOJ_1337.cpp)<br><br>
+   [UVA 1244](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=3685) : [Solution](DFS/Applications%20of%20DFS/Connected%20Component%20Related%20Problems/UVA%20_1244.cpp)<br><br>
+   [UVA 10336](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1277) : [Solution](DFS/Applications%20of%20DFS/Connected%20Component%20Related%20Problems/UVA_10336.cpp)<br><br>
+   [UVA 10946](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1887) : [Solution](DFS/Applications%20of%20DFS/Connected%20Component%20Related%20Problems/UVA_10946.cpp)<br><br>
+   [UVA 11094](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2035) : [Solution](DFS/Applications%20of%20DFS/Connected%20Component%20Related%20Problems/UVA_11094.cpp)<br><br>
+   [UVA 11470](https://onlinejudge.org/external/114/11470.pdf) : [Solution](DFS/Applications%20of%20DFS/Connected%20Component%20Related%20Problems/UVA_11470.cpp)<br><br>
+   [UVA 11518](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=2513) : [Solution](DFS/Applications%20of%20DFS/Connected%20Component%20Related%20Problems/UVA_11518.cpp)<br><br>
+   [UVA 11953](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=3104) : [Solution](DFS/Applications%20of%20DFS/Connected%20Component%20Related%20Problems/UVA_11953.cpp)<br><br>
+   [UVA 260](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=196) : [Solution](DFS/Applications%20of%20DFS/Connected%20Component%20Related%20Problems/UVA_260.cpp)<br><br>
+   [UVA 459](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=400) : [Solution](DFS/Applications%20of%20DFS/Connected%20Component%20Related%20Problems/UVA_459.cpp)<br><br>
+   [UVA 469](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=410) : [Solution](DFS/Applications%20of%20DFS/Connected%20Component%20Related%20Problems/UVA_469.cpp)<br><br>
+   [UVA 657](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=598) : [Solution](DFS/Applications%20of%20DFS/Connected%20Component%20Related%20Problems/UVA_657.cpp)<br><br>
+   [UVA 871](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=812) : [Solution](DFS/Applications%20of%20DFS/Connected%20Component%20Related%20Problems/UVA_871.cpp)<br><br>
+   
+   
+    
    
      
