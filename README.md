@@ -98,11 +98,11 @@
  
    - #### [Finding Articulation Points in a graph](DFS/Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Finding%20Articulation%20Points%20in%20a%20Graph/)
    
-   - #### [Making An Undirected Graph Directed So that Number of Strongly Connected Components is minimal](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Making%20A%20Undirected%20Connected%20Graph%20DIrected%20So%20that%20Number%20of%20SCC%20is%20minimal/)
+   - #### [Making An Undirected Graph Directed So that Number of Strongly Connected Components is minimal](DFS/Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Making%20A%20Undirected%20Connected%20Graph%20DIrected%20So%20that%20Number%20of%20SCC%20is%20minimal/)
 
-   - #### [Making An Undirected Graph Strongly Connected By using Minimum Number of Bidirectional edge](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Making%20a%20Undirected%20Connected%20Graph%20Strongly%20Connected%20By%20giving%20Direction%20to%20Edges./)
+   - #### [Making An Undirected Graph Strongly Connected By using Minimum Number of Bidirectional edge](DFS/Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Making%20a%20Undirected%20Connected%20Graph%20Strongly%20Connected%20By%20giving%20Direction%20to%20Edges./)
 
-   - #### [Number Of Components after deleting a vertex](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Number%20of%20Components%20after%20deleting%20a%20vertex/)
+   - #### [Number Of Components after deleting a vertex](DFS/Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Number%20of%20Components%20after%20deleting%20a%20vertex/)
    
  #### Articulation Bridge and Articulation Point Related Problems
    [Codeforces 118E](https://codeforces.com/problemset/problem/118/E) : [Solution](DFS/Applications%20of%20DFS/Articulation%20Bridge%20Related%20Problems/Codeforces%20_118E.cpp)<br><br>
