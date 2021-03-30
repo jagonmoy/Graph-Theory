@@ -57,6 +57,10 @@
   - #### [Minimum Edges to make a Directed Graph Strongly Connected](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Minimum%20Edges%20to%20Make%20a%20Directed%20Graph%20Strongly%20Connected)
   
   - #### [Given a Directed Graph is it possible to visit all edges at least once in one single path ? Edges and vertices can be visited more than once](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Given%20a%20Directed%20Graph%20is%20it%20possible%20to%20visit%20all%20edges%20at%20least%20once%20in%20one%20single%20path.%20Edges%20and%20vertices%20can%20be%20visited%20more%20than%20once/)
+  - #### [Longest Path in an Unweighted Directed Acyclic Graph using DFS and DP](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Longest%20Path%20in%20an%20Unweighted%20Graph%20Using%20DFS%20and%20DP/)
+    
+   - #### [Given a Directed Graph Find Such node from where Maximum Number of Nodes can be visited](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Given%20a%20Directed%20Graph%20Find%20Such%20node%20from%20Where%20Maximum%20Number%20of%20Nodes%20Can%20be%20Visited/)
+ 
  
  #### CONNECTED COMPONENTS, STRONGLY CONNECTED COMPONENTS RELATED PROBLEM
    [Codeforces 1255D](https://codeforces.com/problemset/problem/1255/D) : [Solution](DFS/Applications%20of%20DFS/Connected%20Component%20Related%20Problems/Codeforces_1255D.cpp)<br><br>
@@ -87,7 +91,9 @@
    [UVA 11838](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2938) : [Solution](DFS/Applications%20of%20DFS/Strongly%20Connected%20Component%20Related%20Problems/UVA_11838.cpp)<br><br>
    [UVA 247](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=183) : [Solution](DFS/Applications%20of%20DFS/Strongly%20Connected%20Component%20Related%20Problems/UVA_247.cpp)<br><br>
    
-   
-    
+#### TOPICS TO BE COVERED BEFORE NEXT SET OF PROBLEMS
+   - #### [Finding Articulation Bridges in a graph](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Finding%20Articulation%20Bridges%20in%20a%20Graph/)
+ 
+   - #### [Finding Articulation Points in a graph](Applications%20of%20DFS/Concepts%20Related%20to%20DFS/Finding%20Articulation%20Points%20in%20a%20Graph/)
    
      
