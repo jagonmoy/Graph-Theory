@@ -8,8 +8,12 @@
  <li> <h4> <a href = "#dfst2" > 2. Cycles,Topsort  </a> </h3> </li> 
  <li> <h4> <a href = "#dfst3" > 3. Connected Components, Strongly Connected Components </a> </h3> </li> 
  <li> <h4> <a href = "#dfst4" > 4. Articulation Points, Articulation Bridge </a> </h3> </li>  
- <li> <h4> <a href = "#dfst5" > 5. DFS on Tree </a> </h3> </li>  <br>
+ <li> <h4> <a href = "#dfst5" > 5. DFS on Tree </a> </h3> </li>  <br><br><br>
+   
  <li> <h3> <a href = "#bfs" > Breadth First Search </a> </h3> </li>
+ <li> <h4> <a href = "#bfs1" > 1. Basic BFS  </a> </h3> </li> 
+ <li> <h4> <a href = "#bfs2" > 2. Given a Graph Find shortest path from source to the destination vertex . But if two or more path has same length then print the lexicographically smaller one  </a> </h3> </li> 
+
  <li> <h3> <a href = "#dijsktra" > Dijkstra </a> </h3> </li>
  <li> <h3> <a href = "#bellmanford" > Bellman Ford  </a> </h3> </li>
  <li> <h3> <a href = "#mis" > Miscellaneous </a> </h3> </li>
