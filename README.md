@@ -3,17 +3,22 @@
   ## Index
    
  <ul>
- <li> <h3> <a href = "#dfs" > Depth First Search and it's Variants </a> </h3> </li> <br>
+ <li> <h3> <a href = "#dfs" > Depth First Search and it's Variants </a> </h3> </li> 
+ <br> 
  <li> <h4> <a href = "#dfst1" > 1. DFS Traversal  </a> </h3> </li> 
  <li> <h4> <a href = "#dfst2" > 2. Cycles,Topsort  </a> </h3> </li> 
  <li> <h4> <a href = "#dfst3" > 3. Connected Components, Strongly Connected Components </a> </h3> </li> 
  <li> <h4> <a href = "#dfst4" > 4. Articulation Points, Articulation Bridge </a> </h3> </li>  
- <li> <h4> <a href = "#dfst5" > 5. DFS on Tree </a> </h3> </li>  <br><br><br>
+ <li> <h4> <a href = "#dfst5" > 5. DFS on Tree </a> </h3> </li>
+ <br><br>
    
- <li> <h3> <a href = "#bfs" > Breadth First Search </a> </h3> </li>
- <li> <h4> <a href = "#bfs1" > 1. Basic BFS  </a> </h3> </li> 
- <li> <h4> <a href = "#bfs2" > 2. Given a Graph Find shortest path from source to the destination vertex . But if two or more path has same length then print the lexicographically smaller one  </a> </h3> </li> 
-
+ <li> <h3> <a href = "#sp" > Shortest Path Algorithms </a> </h3> </li>
+ <br>
+ <li> <h4> <a href = "#sp1" > 1. Breadth First Search  </a> </h3> </li> 
+ <li> <h4> <a href = "#sp2" > 2. Dijkstra  </a> </h3> </li>
+ <li> <h4> <a href = "#sp3" > 3. Bellman-Ford  </a> </h3> </li>
+ <br><br>
+ 
  <li> <h3> <a href = "#dijsktra" > Dijkstra </a> </h3> </li>
  <li> <h3> <a href = "#bellmanford" > Bellman Ford  </a> </h3> </li>
  <li> <h3> <a href = "#mis" > Miscellaneous </a> </h3> </li>
@@ -145,5 +150,11 @@
   [SPOJ PT07Y](https://www.spoj.com/problems/PT07Y/) : [Solution](DFS/Applications%20of%20DFS/DFS%20on%20Tree/SPOJ_PTO7Y.cpp)<br><br>
     
     
-
+- ## <h2 id = "sp" > Shortest Path Algorithms </h2>    
+  ### Prequisite : It's better to have a idea about DFS . Because then it is easier to understand Shortest Path Algorithms.
+  #### <h3 id = "sp1" >TOPICS TO BE COVERED BEFORE NEXT SET OF PROBLEMS : Breadth First Search </h3>
+   - #### [Basic BFS](BFS/Concepts%20Related%20To%20BFS/Basic%20BFS%20Traversal)
+   - #### [Given a Graph Find shortest path from source to the destination vertex . But if two or more path has same length then print the lexicographically smaller one](BFS/Concepts%20Related%20To%20BFS/Given%20a%20Graph%20Find%20shortest%20path%20from%20source%20to%20the%20destination%20vertex%20.%20But%20if%20two%20or%20more%20path%20has%20same%20length%20then%20print%20the%20lexicographically%20smaller%20one)         
+  
+  
    
