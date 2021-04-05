@@ -19,8 +19,6 @@
  <li> <h4> <a href = "#sp3" > 3. Bellman-Ford  </a> </h3> </li>
  <br><br>
  
- <li> <h3> <a href = "#dijsktra" > Dijkstra </a> </h3> </li>
- <li> <h3> <a href = "#bellmanford" > Bellman Ford  </a> </h3> </li>
  <li> <h3> <a href = "#mis" > Miscellaneous </a> </h3> </li>
  </ul>
  <br><br><br>
