@@ -175,4 +175,5 @@
    [UVA 762](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=703) : [Solution](BFS/Problems%20Of%20Online%20Judges/Core%20BFS%20related%20Problems/UVA_762.cpp) <br><br>
    [UVA 924](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=865) : [Solution](BFS/Problems%20Of%20Online%20Judges/Core%20BFS%20related%20Problems/UVA_924.cpp) <br><br>
    [UVA 945](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=886) : [Solution](BFS/Problems%20Of%20Online%20Judges/Core%20BFS%20related%20Problems/UVA_945.cpp) <br><br>
+   [Light OJ 1055](https://lightoj.com/problem/going-together) : [Solution](BFS/Problems%20Of%20Online%20Judges/More%20than%202%20dimensional%20BFS/LightOJ_1055.cpp) <br><br>
    
