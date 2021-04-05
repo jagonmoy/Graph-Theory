@@ -153,6 +153,26 @@
   #### <h3 id = "sp1" >TOPICS TO BE COVERED BEFORE NEXT SET OF PROBLEMS : Breadth First Search </h3>
    - #### [Basic BFS](BFS/Concepts%20Related%20To%20BFS/Basic%20BFS%20Traversal)
    - #### [Given a Graph Find shortest path from source to the destination vertex . But if two or more path has same length then print the lexicographically smaller one](BFS/Concepts%20Related%20To%20BFS/Given%20a%20Graph%20Find%20shortest%20path%20from%20source%20to%20the%20destination%20vertex%20.%20But%20if%20two%20or%20more%20path%20has%20same%20length%20then%20print%20the%20lexicographically%20smaller%20one)         
-  
-  
+  #### BFS TRAVERSAL PROBLEMS 
+   [Light OJ 1039](https://lightoj.com/problem/a-toy-company) : [Solution](BFS/Problems%20Of%20Online%20Judges/Core%20BFS%20related%20Problems/LightOJ_1039.cpp) <br><br>
+   [Light OJ 1046](https://lightoj.com/problem/rider) : [Solution](BFS/Problems%20Of%20Online%20Judges/Core%20BFS%20related%20Problems/LightOJ_1046.cpp) <br><br>
+   [Light OJ 1066](https://lightoj.com/problem/gathering-food) : [Solution](BFS/Problems%20Of%20Online%20Judges/Core%20BFS%20related%20Problems/LightOJ_1066.cpp) <br><br>
+   [Light OJ 1174](https://lightoj.com/problem/commandos) : [Solution](BFS/Problems%20Of%20Online%20Judges/Core%20BFS%20related%20Problems/LightOJ_1174.cpp) <br><br>
+   [Light OJ 1175](https://lightoj.com/problem/jane-and-the-frost-giants) : [Solution](BFS/Problems%20Of%20Online%20Judges/Core%20BFS%20related%20Problems/LightOJ_1175.cpp) <br><br>
+   [Light OJ 1238](https://lightoj.com/problem/power-puff-girls) : [Solution](BFS/Problems%20Of%20Online%20Judges/Core%20BFS%20related%20Problems/LightOJ_1238.cpp) <br><br>
+   [Light OJ 1271](https://lightoj.com/problem/better-tour) : [Solution](BFS/Problems%20Of%20Online%20Judges/Core%20BFS%20related%20Problems/LightOJ_1271.cpp) <br><br>
+   [SPOJ GRAVIITY](https://www.spoj.com/problems/GRAVITY/) : [Solution](BFS/Problems%20Of%20Online%20Judges/Core%20BFS%20related%20Problems/SPOJ_GRAVITY.cpp) <br><br>
+   [UVA 10009](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=950) : [Solution](BFS/Problems%20Of%20Online%20Judges/Core%20BFS%20related%20Problems/UVA_10009.cpp) <br><br>
+   [UVA 10653](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1594) : [Solution](BFS/Problems%20Of%20Online%20Judges/Core%20BFS%20related%20Problems/UVA_10653.cpp) <br><br>
+   [UVA 10959](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1900) : [Solution](BFS/Problems%20Of%20Online%20Judges/Core%20BFS%20related%20Problems/UVA_10959.cpp) <br><br>
+   [UVA 10997](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1938) : [Solution](BFS/Problems%20Of%20Online%20Judges/Core%20BFS%20related%20Problems/UVA_10997.cpp) <br><br>
+   [UVA 1148](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3589) : [Solution](BFS/Problems%20Of%20Online%20Judges/Core%20BFS%20related%20Problems/UVA_1148.cpp) <br><br>
+   [UVA 336](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=272) : [Solution](BFS/Problems%20Of%20Online%20Judges/Core%20BFS%20related%20Problems/UVA_336.cpp) <br><br>
+   [UVA 383](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=319) : [Solution](BFS/Problems%20Of%20Online%20Judges/Core%20BFS%20related%20Problems/UVA_383.cpp) <br><br>
+   [UVA 429](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=370) : [Solution](BFS/Problems%20Of%20Online%20Judges/Core%20BFS%20related%20Problems/UVA_429.cpp) <br><br>
+   [UVA 439](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=380) : [Solution](BFS/Problems%20Of%20Online%20Judges/Core%20BFS%20related%20Problems/UVA_439.cpp) <br><br>
+   [UVA 567](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=508) : [Solution](BFS/Problems%20Of%20Online%20Judges/Core%20BFS%20related%20Problems/UVA_567.cpp) <br><br>
+   [UVA 762](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=703) : [Solution](BFS/Problems%20Of%20Online%20Judges/Core%20BFS%20related%20Problems/UVA_762.cpp) <br><br>
+   [UVA 924](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=865) : [Solution](BFS/Problems%20Of%20Online%20Judges/Core%20BFS%20related%20Problems/UVA_924.cpp) <br><br>
+   [UVA 945](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=886) : [Solution](BFS/Problems%20Of%20Online%20Judges/Core%20BFS%20related%20Problems/UVA_945.cpp) <br><br>
    
