@@ -179,18 +179,16 @@
    
  #### <h3 id = "sp2" >TOPICS TO BE COVERED BEFORE NEXT SET OF PROBLEMS : Dijkstra </h3>
    - #### [Basic Dijkstra Concept](Dijkstra/Concepts%20Related%20To%20Dijkstra/Basic%20Dijkstra%20Concept)
-   - #### [Given a Directed Weighted Graph , a source vertex , a destination vertex and a weight limit L , Find a route from source to destination vertex such that the sum of weight of all the edges in the path is <= L and Print the maximum weight of edge presented in the path/
-Latest commit
-](Dijkstra/Concepts%20Related%20To%20Dijkstra/Given%20a%20Directed%20Weighted%20Graph%20%2C%20a%20source%20vertex%20%2C%20a%20destination%20vertex%20and%20a%20weight%20limit%20L%20%2C%20Find%20a%20route%20from%20source%20to%20destination%20vertex%20such%20that%20the%20sum%20of%20weight%20of%20all%20the%20edges%20in%20the%20path%20is%20<%3D%20L%20and%20Print%20the%20maximum%20weight%20of%20edge%20presented%20in%20the%20path)
+   - #### [Given a Directed Weighted Graph , a source vertex , a destination vertex and a weight limit L , Find a route from source to destination vertex such that the sum of weight of all the edges in the path is <= L and Print the maximum weight of edge presented in the path](Dijkstra/Concepts%20Related%20To%20Dijkstra/Given%20a%20Directed%20Weighted%20Graph%20%2C%20a%20source%20vertex%20%2C%20a%20destination%20vertex%20and%20a%20weight%20limit%20L%20%2C%20Find%20a%20route%20from%20source%20to%20destination%20vertex%20such%20that%20the%20sum%20of%20weight%20of%20all%20the%20edges%20in%20the%20path%20is%20<%3D%20L%20and%20Print%20the%20maximum%20weight%20of%20edge%20presented%20in%20the%20path)
   - #### [Given a Directed weighted Graph and a Source Vertex , Find K'th Shortest Distance from source to each vertex](Dijkstra/Concepts%20Related%20To%20Dijkstra/Given%20a%20Directed%20weighted%20Graph%20and%20a%20Source%20Vertex%20%2C%20Find%20K'th%20Shortest%20Distance%20from%20source%20to%20each%20vertex)
   - #### [Given a Number X you need to make it Number Y . In One Step, Suppose the Number is A ,You Can add the Prime factors of A with A .Find the Minimum Steps to transform X to Y](Dijkstra/Concepts%20Related%20To%20Dijkstra/Given%20a%20Number%20X%20you%20need%20to%20make%20it%20Number%20Y%20.%20In%20One%20Step%2C%20Suppose%20the%20Number%20is%20A%20%2CYou%20Can%20add%20the%20Prime%20factors%20of%20A%20with%20A%20.Find%20the%20Minimum%20Steps%20to%20transform%20X%20to%20Y)
   
   #### Dijkstra Related PROBLEMS 
-   [Light OJ 1002] (https://lightoj.com/problem/country-roads) : [Solution](Dijkstra/Problems%20of%20Online%20Judges/Core%20Dijkstra%20Problems/LightOJ_1002.cpp) <br><br>
-   [Light OJ 1019] (https://lightoj.com/problem/brush-5) : [Solution](Dijkstra/Problems%20of%20Online%20Judges/Core%20Dijkstra%20Problems/LightOJ_1019.cpp) <br><br>
-   [Light OJ 1379] (https://lightoj.com/problem/toll-management) : [Solution](Dijkstra/Problems%20of%20Online%20Judges/Core%20Dijkstra%20Problems/LightOJ_1379.cpp) <br><br>
-   [UVA 10986] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1927) : [Solution](Dijkstra/Problems%20of%20Online%20Judges/Core%20Dijkstra%20Problems/UVA_10986.cpp) <br><br>
-   [UVA 1112] (https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=3553) : [Solution](Dijkstra/Problems%20of%20Online%20Judges/Core%20Dijkstra%20Problems/UVA_1112.cpp) <br><br>
-   [UVA 929] (https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=870) : [Solution](Dijkstra/Problems%20of%20Online%20Judges/Core%20Dijkstra%20Problems/UVA_929.cpp) <br><br>
-   [Light OJ 1099] (https://lightoj.com/problem/not-the-best) : [Solution](Dijkstra/Problems%20of%20Online%20Judges/K'th%20Shortest%20Distance/LightOJ_1099.cpp) <br><br>
-   [Light OJ 1141] (https://lightoj.com/problem/number-transformation) : [Solution](Dijkstra/Problems%20of%20Online%20Judges/Number%20Transformation%20Related%20Problems/LightOJ_1141.cpp) <br><br>
+   [Light OJ 1002](https://lightoj.com/problem/country-roads) : [Solution](Dijkstra/Problems%20of%20Online%20Judges/Core%20Dijkstra%20Problems/LightOJ_1002.cpp) <br><br>
+   [Light OJ 1019](https://lightoj.com/problem/brush-5) : [Solution](Dijkstra/Problems%20of%20Online%20Judges/Core%20Dijkstra%20Problems/LightOJ_1019.cpp) <br><br>
+   [Light OJ 1379](https://lightoj.com/problem/toll-management) : [Solution](Dijkstra/Problems%20of%20Online%20Judges/Core%20Dijkstra%20Problems/LightOJ_1379.cpp) <br><br>
+   [UVA 10986](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1927) : [Solution](Dijkstra/Problems%20of%20Online%20Judges/Core%20Dijkstra%20Problems/UVA_10986.cpp) <br><br>
+   [UVA 1112](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=3553) : [Solution](Dijkstra/Problems%20of%20Online%20Judges/Core%20Dijkstra%20Problems/UVA_1112.cpp) <br><br>
+   [UVA 929](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=870) : [Solution](Dijkstra/Problems%20of%20Online%20Judges/Core%20Dijkstra%20Problems/UVA_929.cpp) <br><br>
+   [Light OJ 1099](https://lightoj.com/problem/not-the-best) : [Solution](Dijkstra/Problems%20of%20Online%20Judges/K'th%20Shortest%20Distance/LightOJ_1099.cpp) <br><br>
+   [Light OJ 1141](https://lightoj.com/problem/number-transformation) : [Solution](Dijkstra/Problems%20of%20Online%20Judges/Number%20Transformation%20Related%20Problems/LightOJ_1141.cpp) <br><br>
